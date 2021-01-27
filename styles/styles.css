@@ -1,6 +1,7 @@
 body {
     background-color: #fffaf9;
     font-family: "Mulish", sans-serif;
+    display: inline;
 }
 
 .navbar {
@@ -21,7 +22,7 @@ body {
 
 .navbar a:hover {
     color: black;
-  }
+}
 
 .container {
     display: flex;
@@ -34,11 +35,29 @@ body {
     position:absolute;
     transform: rotate(12deg);
     margin-left: 30%;
-    top: -10px;
+    margin-right: 30%;
+    top: -30px;
     left: 10px;
     right: 10px;
     font-size: 2vw;
 }
+
+.inner-container .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 10px;
+    
+}
+
+.inner-container:hover .tooltiptext {
+    color: rgb(34, 36, 35);
+    visibility: visible;
+}
+
 
 .pictures {
     align-items: center;
