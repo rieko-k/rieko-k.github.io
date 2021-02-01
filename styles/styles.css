@@ -82,6 +82,7 @@ body {
     border-radius: 10px;
     width: 100%;
     color: #b4b4b4; 
+    font-size: smaller;
 }
 
 #card a {
