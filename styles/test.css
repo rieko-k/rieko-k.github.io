@@ -1,0 +1,13 @@
+html, body {
+    height: 100vh;
+    margin: 0;
+}
+
+.container { 
+    min-height: 100vh;
+    margin-bottom: -2.5rem;
+}
+
+.footer {
+    height: 2.5rem;
+}
