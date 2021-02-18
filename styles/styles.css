@@ -42,7 +42,7 @@ html, body {
     font-size: 2vw;
 }
 
-.inner-container .tooltiptext {
+/* .inner-container .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: black;
@@ -55,7 +55,7 @@ html, body {
 
 .inner-container:hover .tooltiptext {
     visibility: visible;
-}
+} */
 
 
 .pictures {
