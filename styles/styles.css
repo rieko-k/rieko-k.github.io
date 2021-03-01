@@ -5,6 +5,12 @@ html, body {
     display: inline;
 }
 
+.ah {
+    font-size: smaller;
+    margin-top: 80%;
+    margin-left: 32%
+}
+
 .navbar {
     background-color: #fef1e7;
     position: fixed; 
