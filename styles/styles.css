@@ -107,9 +107,6 @@ html, body {
 .content-wrapper {
     overflow: auto;
     min-height: 100%;
-    margin-top: 2.5rem;
-    margin-left: auto;
-    margin-right: auto;
     /* margin 0; */
 }
 
@@ -122,7 +119,7 @@ html, body {
 .map {
     text-align: center;
     display: block;
-    margin-top: 2.5rem;
+    margin-top: 5rem;
     margin-left: auto;
     margin-right: auto;
 }
